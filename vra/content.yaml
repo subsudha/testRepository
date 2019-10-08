@@ -9,6 +9,7 @@ property-group:
 property-definition:
 software-component:
 composite-blueprint:
+ - "Dedicated MS SQL"
 xaas-blueprint:
 xaas-resource-action:
 xaas-resource-type:
