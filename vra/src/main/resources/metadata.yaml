@@ -1,7 +1,0 @@
-name: "com.vmware.com.test.testproject.catalog-1.0.0-SNAPSHOT"
-productVersion: "7.6.0-SNAPSHOT"
-data:
-- locator: "composite-blueprint/Win2016MSSQL.yaml"
-  name: "Dedicated MS SQL"
-  description: "Dedicated MS SQL"
-exportTime: "2019-10-08T12:15:56.619Z"
